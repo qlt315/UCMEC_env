@@ -54,11 +54,11 @@ import UCMEC
 
 Then create an environment:
 ```python
-env = gym.make("MA_UCMEC_env") # for single-agent
+env = gym.make("MA_UCMEC_env") # for multi-agent
 ```
 or 
 ```python
-env = gym.make("SA_UCMEC_env") # for multi-agent
+env = gym.make("SA_UCMEC_env") # for single-agent
 ```
 
 
@@ -76,16 +76,16 @@ action space is a LIST of N*M numbers that should be executed in that step.(M is
 # Please Cite
 1. The paper that first uses this implementation of single-agent UCMEC environment:
 ```
-@ARTICLE{ucmec2022,
-    author={Qin, Langtian and Lu, Hancheng and Wu, Feng},
-    journal={IEEE Communications Magazine},   
-    title={When User-Centric Network Meets Mobile Edge Computing: Challenges and Optimization},   
-    year={2022},  
-    volume={},  
-    number={},
-    pages={1-7},  
-    doi={10.1109/MCOM.006.2200283}
-    }
+@ARTICLE{9952196,
+  author={Qin, Langtian and Lu, Hancheng and Wu, Feng},
+  journal={IEEE Communications Magazine}, 
+  title={When the User-Centric Network Meets Mobile Edge Computing: Challenges and Optimization}, 
+  year={2023},
+  volume={61},
+  number={1},
+  pages={114-120},
+  doi={10.1109/MCOM.006.2200283}}
+
 ```
 
 
