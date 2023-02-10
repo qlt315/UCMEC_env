@@ -1,5 +1,5 @@
-# User-Centric Mobile Edge Computing Environment
-## A single/multi-agent environment for Reinforcement Learning
+# User-Centric Mobile Edge Computing Environments
+## A single/multi-agent environment for Deep Reinforcement Learning
 
 
 <!-- TABLE OF CONTENTS -->
