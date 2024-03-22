@@ -1,2 +1,0 @@
-from .UCMEC_env.MA_UCMEC_env_static_discrete import MA_UCMEC
-from .UCMEC_env.SA_UCMEC_env_continuous import SA_UCMEC
